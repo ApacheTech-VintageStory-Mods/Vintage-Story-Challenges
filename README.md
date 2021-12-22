@@ -77,4 +77,4 @@ These challenges are not for the feint-hearted. They are designed to test your k
 | 3 | **Ceremonial Garb** | Construct a full set of Gold gear and armour.
 | 4 | **Pest Control** | Clear 10 locust nests, and kill at least three of each type of locust.
 | 5 | **Nomad** | Survive for a year, never staying within 200 blocks of where you spent the previous night, and never returning to previous rest site.
-| 6 | **Challenge Anneka** | Complete one challenge from Tier 4, two from Tier 3, three from tier 2, four from Tier 1, and five from Tier 0. Only one Traveller challenge can be chosen in total.
+| 6 | **Challenge Anneka** | Complete one challenge from Tier 4 (this one), two from Tier 3, three from tier 2, four from Tier 1, and five from Tier 0. Only one Traveller challenge can be chosen in total.
