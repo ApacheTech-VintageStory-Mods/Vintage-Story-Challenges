@@ -52,11 +52,11 @@ These challenges actively push the player into inherently dangerous situations, 
 
 | # | Name | Description |
 | --- | --- | --- |
-| 1 | **Traveller (Master)** | Travel at least 20,000 blocks in every direction away from World Spawn.
+| 1 | **Traveller (Expert)** | Travel at least 20,000 blocks in every direction away from World Spawn.
 | 2 | **Trophy Hunter** | Hunt and kill at least one of each creature type.
 | 3 | **Metallurgic Master** | Smelt at least one ingot of every available metal type.
 | 4 | **From Bedrock to Build Limit** | Survive, without sleeping, through two temporal storms. One while standing on the Mantle, and one while standing at build limit.
-| 5 | **Man of Steel** | Construct a full set of Steel gear and armour.
+| 5 | **Man of Steel** | Construct a full set of Steel gear (weapons, and tools) and armour.
 | 6 | **Hack the Planet!** | As a Clock Maker, kill one of each Drifter type and Locust type, using only your own locust army.
 
 NIGHTMARE!!!!! (Tier 4)
@@ -72,9 +72,30 @@ These challenges are not for the feint-hearted. They are designed to test your k
 
 | # | Name | Description |
 | --- | --- | --- |
-| 1 | **Traveller (Legend)** | Reach all four world borders.
+| 1 | **Traveller (Master)** | Travel at least 50,000 blocks in every direction away from World Spawn.
 | 2 | **HALO Jump** | Survive a jump from world height, landing at sea level, or below.
-| 3 | **Ceremonial Garb** | Construct a full set of Gold gear and armour.
-| 4 | **Pest Control** | Clear 10 locust nests, and kill at least three of each type of locust.
+| 3 | **Ceremonial Garb** | Construct a full set of Gold gear (weapons, and tools) and armour.
+| 4 | **Pest Control** | Clear 20 locust nests, and kill at least three of each type of locust.
 | 5 | **Nomad** | Survive for a year, never staying within 200 blocks of where you spent the previous night, and never returning to previous rest site.
 | 6 | **Challenge Anneka** | Complete one challenge from Tier 4 (this one), two from Tier 3, three from tier 2, four from Tier 1, and five from Tier 0. Only one Traveller challenge can be chosen in total.
+
+**BONUS TIER:** Legendary (Tier 5)
+-----
+
+When attempting a **Legendary** level challenge, the following extra rules apply:  
+  
+ 1. You may not use beds, even during a Temporal Storm.
+ 2. You may not use poultices to recover health.
+ 3. You may not choose the *Clock Maker* class.
+ 4. You may not wear armour of any kind.
+
+Only for the most ardent of acheivement hoarders, these Legendary challenges are the ultimate trophies. Bragging rights are well deserved, for completing any of these challeges. I dare you to complete them all. I bet you won't.
+
+| # | Name | Description |
+| --- | --- | --- |
+| 1 | **Traveller (Legend)** | Reach all four world borders.
+| 2 | **Apex Predator** | Kill 1,000 Wolves, 1,000 Drifters, and 1,000 Locusts.
+| 3 | **Arms Race** | Construct full sets of gear (weapons, and tools), and all sets of armour, for all available materials.
+| 4 | **The Silk Road** | Buy from, and sell to 1,000 unique traders.
+| 5 | **Broodmother** | House a breeding pair of every breedable creature, all at a minimum of Generation 100.
+| 6 | **Faster Than Light** | Repair 1,000 Static Translocators.
